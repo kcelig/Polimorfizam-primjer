@@ -1,0 +1,4 @@
+C:\Users\HAL\AppData\Local\Temporary Projects\inheritance\bin\Debug\inheritance.exe
+C:\Users\HAL\AppData\Local\Temporary Projects\inheritance\bin\Debug\inheritance.pdb
+C:\Users\HAL\AppData\Local\Temporary Projects\inheritance\obj\x86\Debug\inheritance.exe
+C:\Users\HAL\AppData\Local\Temporary Projects\inheritance\obj\x86\Debug\inheritance.pdb

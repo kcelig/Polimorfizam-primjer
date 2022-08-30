@@ -1,0 +1,4 @@
+C:\Users\HAL\Desktop\dox\polimorf\polimorf\bin\Debug\polimorf.exe
+C:\Users\HAL\Desktop\dox\polimorf\polimorf\bin\Debug\polimorf.pdb
+C:\Users\HAL\Desktop\dox\polimorf\polimorf\obj\x86\Debug\polimorf.exe
+C:\Users\HAL\Desktop\dox\polimorf\polimorf\obj\x86\Debug\polimorf.pdb
